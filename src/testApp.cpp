@@ -13,6 +13,8 @@ void testApp::update(){
 //--------------------------------------------------------------
 void testApp::draw(){
 
+    ofBackgroundGradient(ofColor::gray, ofColor(30, 10, 30), OF_GRADIENT_CIRCULAR);
+    
 }
 
 //--------------------------------------------------------------
